@@ -2,6 +2,8 @@
 
 A user finder using the Github API. Utilizes React and Daisy-UI.
 
+[Live demo](https://github-finder-phi-mocha.vercel.app/)
+
 ## Available Scripts
 
 In the project directory, you can run:
