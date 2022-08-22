@@ -20,3 +20,7 @@ code {
   border-radius: 0.5rem;
   opacity: 0.45;
 }
+
+.go-submit-btn {
+  right: -4px;
+}

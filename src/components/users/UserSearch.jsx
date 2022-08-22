@@ -43,7 +43,7 @@ function UsersSearch() {
                             />
                             <button 
                                 type='submit'
-                                className="absolute top-0 right-0 rounded-l-none w-26 btn btn-lg">
+                                className="absolute top-0 right-0 rounded-l-none w-26 btn btn-lg go-submit-btn">
                                 Go
                             </button>
                         </div>
